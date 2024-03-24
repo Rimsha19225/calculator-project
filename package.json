@@ -1,0 +1,20 @@
+{
+  "name": "r26w11_calculator_project",
+  "version": "2.0.1",
+  "description": "i am make simple calculator to perform some calculation",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rimsha arshad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "react-facebook-login": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
